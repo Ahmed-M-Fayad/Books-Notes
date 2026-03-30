@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Scraping with Python - Notes
 
 This repository contains my personal notes from the book *Web Scraping with Python*. The notes are in the form of a Jupyter Notebook, summarizing the key concepts, code examples, and important takeaways from Chapter 1.
@@ -19,3 +20,12 @@ Feel free to fork this repository and contribute by creating pull requests. If y
 ## Disclaimer
 
 These notes are a summary of the book *Web Scraping with Python* and are intended for personal learning and educational purposes. All rights to the original content of the book are owned by the author and publisher.
+=======
+# Books Notes 📚
+
+Welcome to **Books-Notes**, a collection of my personal notes from books and study materials.  
+
+This repo is meant to be a central place for learning, exploring ideas, and sharing knowledge. Feel free to browse, use, or even contribute if you want to collaborate!  
+
+Happy learning! 🚀
+>>>>>>> 0dd8dabcc8e613c26609b398db5978324916f753
